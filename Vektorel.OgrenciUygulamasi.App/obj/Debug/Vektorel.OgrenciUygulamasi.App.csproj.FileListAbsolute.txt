@@ -1,0 +1,6 @@
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\bin\Debug\Vektorel.OgrenciUygulamasi.App.exe.config
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\bin\Debug\Vektorel.OgrenciUygulamasi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\bin\Debug\Vektorel.OgrenciUygulamasi.App.pdb
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\obj\Debug\Vektorel.OgrenciUygulamasi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\obj\Debug\Vektorel.OgrenciUygulamasi.App.pdb
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.OgrenciUygulamasi.App\obj\Debug\Vektorel.OgrenciUygulamasi.App.csprojResolveAssemblyReference.cache
